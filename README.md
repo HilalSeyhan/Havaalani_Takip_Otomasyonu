@@ -5,4 +5,4 @@ Kullanıcının müsait koltukları seçebildiği , bilet işlemleri yapılabile
 
 Kullanılan Dil, Araç ve Teknolojiler: C#, WINDOWS FORM, MSSQL, DBFIRST, STORED PROCEDURE, TRIGGER, VIEW
 
-✨ Proje raporu ve veri tabanı dosyası da yüklenmiştir. ✨
+✨ Proje raporu ve veri tabanı dosyası depoda yer almaktadır. ✨
